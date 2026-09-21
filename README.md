@@ -1,4 +1,4 @@
-# Robot Path Planner
+# Pathfinder Robot
 
 An interactive Python application that visualizes robot pathfinding using the A* search algorithm. The program utilizes the standard turtle graphics library to allow users to draw custom polygonal obstacles on a 2D coordinate plane. Once an obstacle is defined, the system calculates and animates the optimal collision-free path between a predefined start and end point.
 
