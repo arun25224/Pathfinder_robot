@@ -12,9 +12,9 @@ An interactive Python application that visualizes robot pathfinding using the A*
 ## Prerequisites
 
 The script relies entirely on Python's standard library, requiring no external package installations.
-* Python 3.x
-* turtle[cite: 10]
-* math[cite: 10]
+* **Python 3.10:** The core programming language runtime.
+* **`turtle`:** Renders the interactive graphical canvas, captures mouse click events for obstacle creation, and animates the robot's calculated route.
+* **`math`:** Handles the underlying geometric operations, specifically computing the Euclidean distance heuristic (`math.hypot`) for the A* search and calculating the coordinate offsets to fill the obstacle boundaries.
 
 ## Usage Instructions
 
